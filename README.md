@@ -1,5 +1,5 @@
-My name is Denay Stokely, and I am a 3rd-year Computer Science major, also minoring in Political Science. I have some research experience as I am a Political Science Research Assistant. 
-Most of my courses have been in C++, Assembly (ASM), and Python, but I have studied principles of Java, R, SQL, HTML, and CSS. I have worked with MIPS, LINUX and on various operating systems. 
+My name is Denay Stokely, and I am a 3rd-year Computer Science major, also minoring in Political Science. I have gained research experience as a Political Science Research Assistant. 
+Most of my courses have been in C++, Assembly (ASM), and Python, but I have studied principles of Java, R, SQL, HTML, and CSS. I have worked with MIPS, LINUX and other various operating systems. 
 
 From my research in Political Science, I have been able to develop skills like time management, teamwork, problem-solving, and critical thinking. 
 From my time on my school's orientation team, I have gained leadership and adaptability skills 
